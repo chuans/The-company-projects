@@ -73,9 +73,11 @@
 <p>
     <br/>
 </p>
-<p>
+<h3>
     ###2048
-</p>
+</h3>
+<a href='m.ireadercity.com/webapp/page/merryChristmas.html'>项目地址(请用微信打开或扫一扫)http://d.ireadercity.com/webresource/page/spa/mooncake.html</a>
+<img src='https://d.ireadercity.com/webresource/page/spa/wx-2048.png'>
 <p>
     hbs 源码文件在 src &gt; hbs &gt; spa &gt; wx-game-2048.hbs
 </p>
@@ -100,9 +102,10 @@
 <p>
     <br/>
 </p>
-<p>
+<h3>
     ###吃月饼游戏
-</p>
+</h3>
+<a href='http://d.ireadercity.com/webresource/page/spa/mooncake.html'>项目地址http://d.ireadercity.com/webresource/page/spa/mooncake.html</a>
 <p>
     hbs 源码文件在 src &gt; hbs &gt; spa &gt; moonCake.hbs
 </p>
