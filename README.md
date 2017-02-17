@@ -76,7 +76,7 @@
 <h3>
     ###2048
 </h3>
-<a href='https://m.ireadercity.com/webapp/page/merryChristmas.html'>项目地址(请用微信打开或扫一扫)https://m.ireadercity.com/webapp/page/merryChristmas.html</a>
+<a target="_blank" href='https://m.ireadercity.com/webapp/page/merryChristmas.html'>项目地址(请用微信打开或扫一扫)https://m.ireadercity.com/webapp/page/merryChristmas.html</a>
 <img src='https://d.ireadercity.com/webresource/page/spa/wx-2048.png'>
 <p>
     hbs 源码文件在 src &gt; hbs &gt; spa &gt; wx-game-2048.hbs
